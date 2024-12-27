@@ -1,0 +1,42 @@
+{
+  "schedule": {
+    "2025-07-03": [
+      {
+        "start": "13:00",
+        "end": "14:00",
+        "title": "Arrival and Drinks at the Hotel",
+        "description": "Prior to the ceremony, enjoy some refreshments and grab yourself a drink from the bar!",
+        "location": "The Meadow Barn, Ingon Ln, Stratford-upon-Avon, CV37 0QE",
+        "icon": "faChampagneGlasses"
+      },
+      {
+        "start": "14:00",
+        "end": "14:30",
+        "title": "Ceremony",
+        "description": "It's time to say I do!",
+        "icon": "faHeart"
+      },
+      {
+        "start": "14:30",
+        "end": "16:45",
+        "title": "Drinks Reception",
+        "description": "Drinks and canapes will be served.",
+        "icon": "faWineBottle"
+      },
+      {
+        "start": "16:45",
+        "end": "18:15",
+        "title": "Wedding Breakfast",
+        "description": "A 3 course meal will be served. Please when you RSVP let us know any dietary requirements.",
+        "icon": "faUtensils"
+      },
+      {
+        "start": "19:00",
+        "end": "20:00",
+        "title": "Evening Reception",
+        "description": "Bring your dancing shoes, we're partying till midnight! Don't worry there will be food and cake.",
+        "icon": "faMugHot"
+      }
+    ]
+  }
+}
